@@ -171,6 +171,15 @@
     "illegal": false
     }
   ],
+    {
+    "name": "pot-app-translate-plugin-SiliconFlow",
+    "desc_en": "SiliconFlow translate plugin",
+    "desc_zh": "硅基流动 翻译插件",
+    "url": "https://github.com/bushiliang/pot-app-translate-plugin-SiliconFlow",
+    "offical": false,
+    "illegal": false
+    }
+  ],
   "recognize": [
     {
       "name": "pot-app-recognize-plugin-rapid",
@@ -243,6 +252,15 @@
       "url": "https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama",
       "offical": false,
       "illegal": false
+    }
+  ],
+    {
+    "name": "pot-app-recognize-plugin-volcengine ",
+    "desc_en": "volcengine recognize pluginn",
+    "desc_zh": "火山 文字识别插件",
+    "url": "https://github.com/bushiliang/pot-app-ocr-plugin-volcengine",
+    "offical": false,
+    "illegal": false
     }
   ],
   "tts": [
