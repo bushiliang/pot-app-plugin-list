@@ -60,7 +60,7 @@
 - [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - 白描 文字识别插件
 - [pot-app-recognize-plugin-qwen-ocr](https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr) - 千问 文字识别插件
 - [pot-app-recognize-plugin-ollama](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama) - Ollama 文字识别插件
-- [pot-app-ocr-plugin-volcengine](https://github.com/bushiliang/pot-app-ocr-plugin-volcengine) -火山 文字识别插件
+- [pot-app-recognize-plugin-volcengine](https://github.com/bushiliang/pot-app-ocr-plugin-volcengine) -火山 文字识别插件
 
 ## 语音合成
 
