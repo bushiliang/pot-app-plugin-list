@@ -47,6 +47,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-cohere](https://github.com/omegaduncan/pot-app-translate-plugin-cohere) - Cohere translate plugin
 - [pot-app-translate-plugin-deepseek](https://github.com/Tzulao55/pot-app-translate-plugin-deepseek) - DeepSeek translate plugin
 - [pot-app-translate-plugin-localdeepseek-r1](https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1) - Local DeepSeek-R1 translate plugin (No display of R1 thought process)
+- [pot-app-translate-plugin-SiliconFlow](https://github.com/bushiliang/pot-app-translate-plugin-SiliconFlow) - SiliconFlow translate plugin
 
 ## Recognize
 
@@ -59,6 +60,7 @@ Pot app plugin collection from the community.
 - [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - Baimiao recognize plugin
 - [pot-app-recognize-plugin-qwen-ocr](https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr) - Qwen recognize plugin
 - [pot-app-recognize-plugin-ollama](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama) - Ollama recognize plugin
+- [pot-app-recognize-plugin-volcengine](https://github.com/bushiliang/pot-app-ocr-plugin-volcengine) -volcengine recognize plugin
 
 ## TTS
 
